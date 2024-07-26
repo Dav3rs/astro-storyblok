@@ -1,0 +1,19 @@
+{
+  "name": "astro-storyblok",
+  "type": "module",
+  "version": "0.0.1",
+  "scripts": {
+    "dev": "astro dev",
+    "start": "astro dev",
+    "build": "astro check && astro build",
+    "preview": "astro preview",
+    "astro": "astro"
+  },
+  "dependencies": {
+    "@astrojs/check": "^0.8.3",
+    "@storyblok/astro": "^5.0.0",
+    "@storyblok/js": "^3.0.8",
+    "astro": "^4.12.2",
+    "typescript": "^5.5.4"
+  }
+}
